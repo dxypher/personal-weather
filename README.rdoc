@@ -1,1 +1,1 @@
-A simple app I created using the Hungry Academy instructions to experiment with using API's.
+A simple app I created using the WunderGround API following the Hungry Academy tutorial.
